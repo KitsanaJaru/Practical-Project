@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 217ac515463fe2a4f850509ed29f361e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6501546427197388997
+    second: TX Props with Shadow 1_0
+  - first:
+      213: -3166143135635538326
+    second: TX Props with Shadow 1_1
+  - first:
+      213: 5628159769041603248
+    second: TX Props with Shadow 1_2
+  - first:
+      213: -7084658581321892209
+    second: TX Props with Shadow 1_3
+  - first:
+      213: -4180522417430796531
+    second: TX Props with Shadow 1_4
+  - first:
+      213: 4003682934981236368
+    second: TX Props with Shadow 1_5
+  - first:
+      213: -5857114580829019696
+    second: TX Props with Shadow 1_6
+  - first:
+      213: 5496840981912385262
+    second: TX Props with Shadow 1_7
+  - first:
+      213: -5019922244021336659
+    second: TX Props with Shadow 1_8
+  - first:
+      213: -7199285744156522820
+    second: TX Props with Shadow 1_9
+  - first:
+      213: -8739521881941402127
+    second: TX Props with Shadow 1_10
+  - first:
+      213: -5328148271762223041
+    second: TX Props with Shadow 1_11
+  - first:
+      213: 572932809732990883
+    second: TX Props with Shadow 1_12
+  - first:
+      213: 2997834872563944881
+    second: TX Props with Shadow 1_13
+  - first:
+      213: -5249992186751937069
+    second: TX Props with Shadow 1_14
+  - first:
+      213: 780943502797751730
+    second: TX Props with Shadow 1_15
+  - first:
+      213: 8118328724045909779
+    second: TX Props with Shadow 1_16
+  - first:
+      213: 3247814988870596919
+    second: TX Props with Shadow 1_17
+  - first:
+      213: -6460126118577260130
+    second: TX Props with Shadow 1_18
+  - first:
+      213: 5565526232403476879
+    second: TX Props with Shadow 1_19
+  - first:
+      213: -7646471649140880116
+    second: TX Props with Shadow 1_20
+  - first:
+      213: -8796158538765226224
+    second: TX Props with Shadow 1_21
+  - first:
+      213: -7023686152966090707
+    second: TX Props with Shadow 1_22
+  - first:
+      213: 2522357823068173479
+    second: TX Props with Shadow 1_23
+  - first:
+      213: -3499010845748457953
+    second: TX Props with Shadow 1_24
+  - first:
+      213: 2270115706596038442
+    second: TX Props with Shadow 1_25
+  - first:
+      213: -9098484865938493156
+    second: TX Props with Shadow 1_26
+  - first:
+      213: -3455950504367590661
+    second: TX Props with Shadow 1_27
+  - first:
+      213: 1728492489289828184
+    second: TX Props with Shadow 1_28
+  - first:
+      213: 8253700104695785781
+    second: TX Props with Shadow 1_29
+  - first:
+      213: 3900571774599148364
+    second: TX Props with Shadow 1_30
+  - first:
+      213: -8862243804143199475
+    second: TX Props with Shadow 1_31
+  - first:
+      213: -4388447228968359076
+    second: TX Props with Shadow 1_32
+  - first:
+      213: 3470863457195331867
+    second: TX Props with Shadow 1_33
+  - first:
+      213: -3070028194792591862
+    second: TX Props with Shadow 1_34
+  - first:
+      213: 2444278719585846221
+    second: TX Props with Shadow 1_35
+  - first:
+      213: -1036409853521874500
+    second: TX Props with Shadow 1_36
+  - first:
+      213: -2096730089192270084
+    second: TX Props with Shadow 1_37
+  - first:
+      213: -4913624265305443133
+    second: TX Props with Shadow 1_38
+  - first:
+      213: 3492707737945754762
+    second: TX Props with Shadow 1_39
+  - first:
+      213: -4967674982780760503
+    second: TX Props with Shadow 1_40
+  - first:
+      213: 6525735088205755292
+    second: TX Props with Shadow 1_41
+  - first:
+      213: -8274692443242152991
+    second: TX Props with Shadow 1_42
+  - first:
+      213: 1809294445825771762
+    second: TX Props with Shadow 1_43
+  - first:
+      213: -8321255399500548957
+    second: TX Props with Shadow 1_44
+  - first:
+      213: 2768607496157045020
+    second: TX Props with Shadow 1_45
+  - first:
+      213: 4828028425349170643
+    second: TX Props with Shadow 1_46
+  - first:
+      213: 2993587027770826100
+    second: TX Props with Shadow 1_47
+  - first:
+      213: -6394306994978623400
+    second: TX Props with Shadow 1_48
+  - first:
+      213: -7076415916341362592
+    second: TX Props with Shadow 1_49
+  - first:
+      213: 2551306661258172951
+    second: TX Props with Shadow 1_50
+  - first:
+      213: 3114943172214095067
+    second: TX Props with Shadow 1_51
+  - first:
+      213: 5838860763367867783
+    second: TX Props with Shadow 1_52
+  - first:
+      213: -6576096514441431795
+    second: TX Props with Shadow 1_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 447
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37803c98fdd5c5a0800000000000000
+      internalID: -6501546427197388997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 450
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ef664d7999f04d0800000000000000
+      internalID: -3166143135635538326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 447
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba8edc9d7d3b1e40800000000000000
+      internalID: 5628159769041603248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 450
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eb2617e8c3ead90800000000000000
+      internalID: -7084658581321892209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 477
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07ea7db20dcbf5c0800000000000000
+      internalID: -4180522417430796531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 456
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09699dcba60ff8730800000000000000
+      internalID: 4003682934981236368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 451
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1ece0325957bea0800000000000000
+      internalID: -5857114580829019696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 448
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee672b1efb3b84c40800000000000000
+      internalID: 5496840981912385262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_8
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 418
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5c605d057a55ab0800000000000000
+      internalID: -5019922244021336659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 358
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6440752cff61c90800000000000000
+      internalID: -7199285744156522820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 386
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd1120072bf6b680800000000000000
+      internalID: -8739521881941402127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 386
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f305007606d9e06b0800000000000000
+      internalID: -5328148271762223041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 354
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a72d4cda5773f700800000000000000
+      internalID: 572932809732990883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_13
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 395
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdc372fee27a9920800000000000000
+      internalID: 2997834872563944881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 388
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5131bfbe74427b0800000000000000
+      internalID: -5249992186751937069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 388
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5c8e96af776da00800000000000000
+      internalID: 780943502797751730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 352
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f4b9636f81aa070800000000000000
+      internalID: 8118328724045909779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_17
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 355
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73932d3568e821d20800000000000000
+      internalID: 3247814988870596919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 381
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99baf9b5850956a0800000000000000
+      internalID: -6460126118577260130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_19
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 374
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f810786fe98bc3d40800000000000000
+      internalID: 5565526232403476879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_20
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dccdf3c8642e590800000000000000
+      internalID: -7646471649140880116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_21
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 360
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f21ecb964cde580800000000000000
+      internalID: -8796158538765226224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 292
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2050ae28aad68e90800000000000000
+      internalID: -7023686152966090707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 292
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4f7687317310320800000000000000
+      internalID: 2522357823068173479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 319
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e8ce1ac24017fc0800000000000000
+      internalID: -3499010845748457953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 322
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2711b22532118f10800000000000000
+      internalID: 2270115706596038442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 290
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11f7736830bbb180800000000000000
+      internalID: -9098484865938493156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 296
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf276d1a35ff900d0800000000000000
+      internalID: -3455950504367590661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_28
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 260
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8570d05d2c6dcf710800000000000000
+      internalID: 1728492489289828184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 255
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5392ff6e3880b8270800000000000000
+      internalID: 8253700104695785781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 260
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43b5e5ec5d912630800000000000000
+      internalID: 3900571774599148364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 231
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b532dd63cf20580800000000000000
+      internalID: -8862243804143199475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 231
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b2bc90f7a1913c0800000000000000
+      internalID: -4388447228968359076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_33
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 260
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b111306ccebfa2030800000000000000
+      internalID: 3470863457195331867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_34
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 240
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e24fe5f911565d0800000000000000
+      internalID: -3070028194792591862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_35
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc306fc8b82dbe120800000000000000
+      internalID: 2444278719585846221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 233
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb13d17babeed91f0800000000000000
+      internalID: -1036409853521874500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 162
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf652d3c71be6e2e0800000000000000
+      internalID: -2096730089192270084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 196
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4bab2a3cc4fcbb0800000000000000
+      internalID: -4913624265305443133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_39
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 168
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cc388be27987030800000000000000
+      internalID: 3492707737945754762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_40
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 157
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e02cb4ce54f0bb0800000000000000
+      internalID: -4967674982780760503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 131
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c937ec6ec71109a50800000000000000
+      internalID: 6525735088205755292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 152
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb31f660136a2d80800000000000000
+      internalID: -8274692443242152991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_43
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 103
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8488166b7eb1910800000000000000
+      internalID: 1809294445825771762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 37
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4f7735d46f48c80800000000000000
+      internalID: -8321255399500548957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11acea59d11c6620800000000000000
+      internalID: 2768607496157045020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_46
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d50d6ad54a900340800000000000000
+      internalID: 4828028425349170643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_47
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 5
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d5f728a8b5b8920800000000000000
+      internalID: 2993587027770826100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_48
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 5
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850f083aaabd247a0800000000000000
+      internalID: -6394306994978623400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0608d8f67358bcd90800000000000000
+      internalID: -7076415916341362592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a916914ef086320800000000000000
+      internalID: 2551306661258172951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_51
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc795bbf408a3b20800000000000000
+      internalID: 3114943172214095067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_52
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 7
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785028dbdecc70150800000000000000
+      internalID: 5838860763367867783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow 1_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05b800df030db4a0800000000000000
+      internalID: -6576096514441431795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TX Props with Shadow 1_0: -6501546427197388997
+      TX Props with Shadow 1_1: -3166143135635538326
+      TX Props with Shadow 1_10: -8739521881941402127
+      TX Props with Shadow 1_11: -5328148271762223041
+      TX Props with Shadow 1_12: 572932809732990883
+      TX Props with Shadow 1_13: 2997834872563944881
+      TX Props with Shadow 1_14: -5249992186751937069
+      TX Props with Shadow 1_15: 780943502797751730
+      TX Props with Shadow 1_16: 8118328724045909779
+      TX Props with Shadow 1_17: 3247814988870596919
+      TX Props with Shadow 1_18: -6460126118577260130
+      TX Props with Shadow 1_19: 5565526232403476879
+      TX Props with Shadow 1_2: 5628159769041603248
+      TX Props with Shadow 1_20: -7646471649140880116
+      TX Props with Shadow 1_21: -8796158538765226224
+      TX Props with Shadow 1_22: -7023686152966090707
+      TX Props with Shadow 1_23: 2522357823068173479
+      TX Props with Shadow 1_24: -3499010845748457953
+      TX Props with Shadow 1_25: 2270115706596038442
+      TX Props with Shadow 1_26: -9098484865938493156
+      TX Props with Shadow 1_27: -3455950504367590661
+      TX Props with Shadow 1_28: 1728492489289828184
+      TX Props with Shadow 1_29: 8253700104695785781
+      TX Props with Shadow 1_3: -7084658581321892209
+      TX Props with Shadow 1_30: 3900571774599148364
+      TX Props with Shadow 1_31: -8862243804143199475
+      TX Props with Shadow 1_32: -4388447228968359076
+      TX Props with Shadow 1_33: 3470863457195331867
+      TX Props with Shadow 1_34: -3070028194792591862
+      TX Props with Shadow 1_35: 2444278719585846221
+      TX Props with Shadow 1_36: -1036409853521874500
+      TX Props with Shadow 1_37: -2096730089192270084
+      TX Props with Shadow 1_38: -4913624265305443133
+      TX Props with Shadow 1_39: 3492707737945754762
+      TX Props with Shadow 1_4: -4180522417430796531
+      TX Props with Shadow 1_40: -4967674982780760503
+      TX Props with Shadow 1_41: 6525735088205755292
+      TX Props with Shadow 1_42: -8274692443242152991
+      TX Props with Shadow 1_43: 1809294445825771762
+      TX Props with Shadow 1_44: -8321255399500548957
+      TX Props with Shadow 1_45: 2768607496157045020
+      TX Props with Shadow 1_46: 4828028425349170643
+      TX Props with Shadow 1_47: 2993587027770826100
+      TX Props with Shadow 1_48: -6394306994978623400
+      TX Props with Shadow 1_49: -7076415916341362592
+      TX Props with Shadow 1_5: 4003682934981236368
+      TX Props with Shadow 1_50: 2551306661258172951
+      TX Props with Shadow 1_51: 3114943172214095067
+      TX Props with Shadow 1_52: 5838860763367867783
+      TX Props with Shadow 1_53: -6576096514441431795
+      TX Props with Shadow 1_6: -5857114580829019696
+      TX Props with Shadow 1_7: 5496840981912385262
+      TX Props with Shadow 1_8: -5019922244021336659
+      TX Props with Shadow 1_9: -7199285744156522820
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
